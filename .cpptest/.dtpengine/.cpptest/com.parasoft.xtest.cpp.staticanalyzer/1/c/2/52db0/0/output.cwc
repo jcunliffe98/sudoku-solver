@@ -1,0 +1,160 @@
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'inValue' as const
+<l>20
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'inGiven' as const
+<l>25
+<k>28
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'inCandidateNumber' as const
+<l>42
+<k>33
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>OPT-24
+<b>Function 'AddCandidateList' is not inlined
+<l>42
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'inCandidateNumber' as const
+<l>47
+<k>36
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'inCanididatePosition' as const
+<l>59
+<k>32
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>OPT-24
+<b>Function 'GetCandidateList' is not inlined
+<l>59
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>CODSTA-CPP-54
+<b>Member function 'GetValue' should be declared as const
+<l>15
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>CODSTA-CPP-54
+<b>Member function 'GetIsGiven' should be declared as const
+<l>37
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>INIT-06
+<b>Constructor does not initialize members: 'm_given, m_value'
+<l>5
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>OPT-23
+<b>Getter/setter method 'SetValue' is not inlined
+<l>20
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>OPT-23
+<b>Getter/setter method 'GetValue' is not inlined
+<l>15
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>OPT-23
+<b>Getter/setter method 'SetIsGiven' is not inlined
+<l>25
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>OPT-23
+<b>Getter/setter method 'GetIsGiven' is not inlined
+<l>37
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>OPT-24
+<b>Function 'AddCandidateList' is not inlined
+<l>42
+<k>12
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Cell.cpp
+<c>OPT-24
+<b>Function 'GetCandidateList' is not inlined
+<l>59
+<k>11
+<s>false
+<N>
+<f>
+<L>0

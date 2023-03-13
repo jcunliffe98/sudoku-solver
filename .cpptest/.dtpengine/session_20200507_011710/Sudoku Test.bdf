@@ -1,0 +1,32 @@
+------- cpptestscan v.10.3.0 (cpptesttrace) -------
+working_dir=C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\
+project_name=Sudoku Test
+arg=cl.exe
+arg=-IC:\Program Files (x86)\Parasoft\C++test for Visual Studio\10.4\engine\runtime\include
+arg=/ZI
+arg=/W3
+arg=/Od
+arg=/EHsc
+arg=/RTC1
+arg=/MDd
+arg=/fp:precise
+arg=/Gd
+arg=/GS
+arg=/sdl
+arg=/Oy-
+arg=/Gm-
+arg=/D_MBCS
+arg=/Zc:wchar_t
+arg=/Zc:forScope
+arg=/Zc:inline
+arg=/WX-
+arg=/nologo
+arg=/FC
+arg=/diagnostics:classic
+arg=-DPARASOFT_CPPTEST
+arg=-I.
+arg=--cpptest_cpp_file
+arg=C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\SudokuPuzzle.cpp
+env+=Path=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;C:\WINDOWS\SysWow64;;C:\Program Files\Oculus\Support\oculus-runtime;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Users\jack9\AppData\Local\Microsoft\WindowsApps;;C:\Users\jack9\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\Parasoft\C++test for Visual Studio\10.4\plugins\com.parasoft.xtest.libs.vstudio.cpp\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.libs.vstudio\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core;;C:\Program Files\Oculus\Support\oculus-runtime;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Users\jack9\AppData\Local\Microsoft\WindowsApps;;C:\Users\jack9\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\Parasoft\C++test for Visual Studio\10.4\plugins\com.parasoft.xtest.libs.vstudio.cpp\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.libs.vstudio\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.4\plugins\com.parasoft.xtest.runtime.vstudio.core
+env+=INCLUDE=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Include\um;
+env+=LIB=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\lib\x86;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x86;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x86;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x86;;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\Lib\um\x86

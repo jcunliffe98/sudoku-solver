@@ -1,0 +1,32 @@
+#Mon May 04 22:00:45 GMT+01:00 2020
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.advanced.options=
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.cdt.configuration=CPPTEST_USE_ACTIVE_CONFIG
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.c.win32.x86=cl.exe
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.compiler.command.cpp.win32.x86=cl.exe
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.compiler.family.win32.x86=vc_14_1
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.compiler.options.win32.x86=${cpptest\:original_options} -DPARASOFT_CPPTEST -I.
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.connected.6x.projects=
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.dependency.files.paths=${project_loc}/Makefile
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.dsp.env.var.mode=ENV_PATCH_PREPEND_MODE
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.edg.multibyte.chars.is.source.handling=AUTO
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.evc.env.var.mode=ENV_PATCH_PREPEND_MODE
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.extractor.id=vs71_extractor_id
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.linker.command.win32.x86=link.exe
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.linker.options.win32.x86=${cpptest\:original_options} ${cpptest\:project_lib_files}
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.make.command.line=make -i -B CXX\=${CPPTEST_SCAN} CC\=${CPPTEST_SCAN} LD\=${CPPTEST_SCAN}
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.make.scan.hash.code.validation=true
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.make.working.dir=${project_loc}
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.make_always_build=false
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.ode_auto_scan_mode=on_changes
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.ode_delete_bdf_postaction=false
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.ode_incremental_build=false
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.ode_options_dir=${project_loc}/cpptestscan.bdf
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.preference.store.version=1.1
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.run_orig_cmd_for_parallel_proj_bdf=true
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.runtime.location=${cpptest\:engine_loc}/runtime
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.synchronize_with_project_settings=true
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.test.case.location.patterns=*
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.test.ware.location=${workspace_loc}/.cpptest/${project_name}
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.vc71.configuration=CPPTEST_USE_ACTIVE_CONFIG
+Sudoku\ Test/Sudoku\ Test//com.parasoft.xtest.checkers.api.cpp.options.working.dir=${project_loc}
+project.path.0d857671-3f93-4cb8-a14c-7cb3956c7520=Sudoku Test/Sudoku Test

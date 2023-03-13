@@ -1,0 +1,50 @@
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Main.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'args' as const
+<l>6
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Main.cpp
+<c>CODSTA-CPP-53
+<b>Declare parameter 'argv' as const
+<l>6
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Main.cpp
+<c>CODSTA-CPP-53
+<b>Declare local variable 'cell' as const
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Main.cpp
+<c>MISRA2004-16_7
+<b>Pass parameter "argv" with const specifier
+<l>6
+<k>27
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Advanced Programming\Sudoku Test - Copy\Sudoku Test\Main.cpp
+<c>OPT-02
+<b>Local variable 'cell' declared but not used
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0
